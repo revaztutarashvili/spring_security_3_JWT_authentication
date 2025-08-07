@@ -12,7 +12,7 @@ public class CustomAuthentication implements Authentication {
 
     private final String userName;
 
-    private boolean authenticated;
+//    private boolean authenticated;
 
     private final UserRole role;
     @Getter
